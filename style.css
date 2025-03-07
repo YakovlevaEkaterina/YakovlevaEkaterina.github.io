@@ -1,0 +1,43 @@
+h1, h2,h3, h4, a, p, li, input, button {
+    font-family: "Geologica";
+    color: #2A4588;
+}
+
+pre {
+    font-family: "Geologica";
+    color: white;
+    font-size: 16px;
+}
+.mask-group,
+.mask-group * {
+  box-sizing: border-box;
+}
+.mask-group {
+  height: auto;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 0;
+}
+
+.navbar {
+    z-index: 100;
+}
+
+h1{
+    font-size: 90px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    color: white;
+    font-size: 48px;
+}
+
+#main {
+   padding-top: 440px;
+}
+
+
+
